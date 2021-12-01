@@ -6,3 +6,5 @@
     R: Uma ramificação da sua main.
  4° O que é uma merge?
     R: A junção da ramificação anteriormente criada para o principal projeto (main).
+ 5° O que é clone?
+    R: Comando para clonar trabalhos (ou baixar).   
