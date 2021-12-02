@@ -9,4 +9,6 @@
  5° O que é clone?
     R: Comando para clonar trabalhos (ou baixar).
  6° O que é pull?
-    R: Puxar arquivos.      
+    R: Puxar arquivos.
+ 7° O que é push?
+    R: Empurrar arquivos.         
