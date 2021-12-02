@@ -8,3 +8,7 @@
     R: A junção da ramificação anteriormente criada para o principal projeto (main).
  5° O que é clone?
     R: Comando para clonar trabalhos (ou baixar).   
+ 6° O que é o pull?
+    R: Puxar arquivos
+ 7° O que é push?
+    R: Empurrar arquivos.      
